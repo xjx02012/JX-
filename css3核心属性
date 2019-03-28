@@ -4,3 +4,7 @@ box-shadow(合阴影）
 RGBA(色彩空间)
 opacity(透明度)
 多重背景图像
+Gecko浏览器为-moz-(Firefox)
+Webkit(Safari和Google Chrome)浏览器为-Webkit-
+Microsoft浏览器为-ms-(IE9)
+Opera为-o-(Opera也是经常使用的标准语法）
